@@ -1,3 +1,3 @@
 # Hi, my name is Grace Warukenya and this is my portfolio.
-# This is a review of it
+# This is the preview
 ![preview](preview.png)
